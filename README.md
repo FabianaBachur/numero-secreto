@@ -1,11 +1,9 @@
 <h1>Jogo do número secreto</h1>
 
-
 <h2>🔖 Sobre</h2>
 <p>Projeto desenvolvido no curso de lógica de programação da Alura.</p>
 
 Link: https://fabianabachur.github.io/numero-secreto/
-
 
 ## 🚀 Tecnologias
 <div>
