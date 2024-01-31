@@ -6,6 +6,7 @@
 
 Link: https://fabianabachur.github.io/numero-secreto/
 
+
 ## 🚀 Tecnologias
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
