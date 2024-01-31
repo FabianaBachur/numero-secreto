@@ -1,10 +1,8 @@
-# numero-secreto
+<h1>Jogo do número secreto</h1>
 
 O jogo do número secreto foi um projeto desenvolvido no curso de lógica de programação com JavaScript. Realizado na plataforma da Alura.
 
-https://fabianabachur.github.io/numero-secreto/
-
-<h1>Jogo do número secreto</h1>
+Link: https://fabianabachur.github.io/numero-secreto/
 
 <h2>🔖 Sobre</h2>
 <p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
